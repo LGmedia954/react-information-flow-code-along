@@ -12,4 +12,4 @@ class Child extends Component {
   }
 }
 
-export default 
+export default Child
